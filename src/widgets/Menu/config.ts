@@ -119,9 +119,10 @@ export const socials: {
   href: string;
   items?: { label: string; href: string; }[];
 }[] = [
-  // {
-  //   label: "Telegram",
-  //   icon: "TelegramIcon",
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    href: "https://t.me/joinchat/KP-JH4mdRYUyMDJl",
   //   items: [
   //     {
   //       label: "English",
@@ -176,7 +177,7 @@ export const socials: {
   //       href: "https://t.me/BinanceRocketEGG",
   //     },
   //   ],
-  // },
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
