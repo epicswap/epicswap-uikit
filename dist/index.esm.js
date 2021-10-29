@@ -2223,7 +2223,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/epicswap1",
+        href: "https://twitter.com/epicswap_bsc",
     },
 ];
 var MENU_HEIGHT = 64;
